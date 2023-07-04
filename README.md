@@ -1,5 +1,4 @@
 # DISLOCK v2.3 
-## TEMPORARY INACTIV and NOT WORKING
 
 DISLOCK is the most advanced Discord Browser Generator.
 
@@ -70,25 +69,13 @@ Type     | Recommended Usage              |
 
 Contributions are always welcome!
 
-See [Contributing](https://github.com/Vinyzu/DiscordGenerator/blob/main/contributing.md) for ways to get started.
 
 
 ## To the Skids
 
 Hello, skid. I know its in your nature to laboriously copy and paste this project and sell it as yours. And i can´t 100% prevent that. However, legally you aren´t allowed to share your skidded DISLOCK other than the source code. And i know that you give a fuck about Licenses and Copyright, but if you gonna use this code as yours and don´t mark me as the original author, i can assure you that you won´t have a good time selling this ;d.
 
-## Copyright and License
-© [Vinyzu](https://github.com/Vinyzu/)
-
-[GNU GPL](https://choosealicense.com/licenses/gpl-3.0/)
-
-(Commercial Usage is allowed, but source, license and copyright has to made available. DISLOCK does not provide and Liability or Warranty)
-
-## Authors
-
-- [@Vinyzu](https://github.com/Vinyzu)
-
-`If you appreciate this Repository, I would love to see you star and share this. It took a lot of effort and time to code all of those features and i originally planned to sell this project, so I´m "wasting" money for everyone´s fun ;:D.`
+money for everyone´s fun ;:D.`
 
 
 
